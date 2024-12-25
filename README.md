@@ -48,6 +48,7 @@ Developed by: Nandhini M  RegisterNumber: 24900996
 
 
 **TRUTH TABLE**
+
 ![truth11](https://github.com/user-attachments/assets/6ab5dbe3-3a4d-4c27-8431-4b086cf59dc5)
 
 
